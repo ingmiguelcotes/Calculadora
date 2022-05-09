@@ -55,8 +55,10 @@ peso = float(input("Ingresa su Peso en Kilogramos: "))
 edad = float(input("Ingresa su Edad en años: "))
 print("\n")
 
-#Llamo las funciones
+#Llamo las funciones que previamente habia definido
 calculoPesoIdeal(altura)
 caloriasQuemadas(tiempoActividad, valorMET, peso)
 porcentajeGrasaCorporal (peso, altura, edad)
 tasaMetabolicaBasal (peso, altura, edad)
+
+print("Excelente Aprendizaje")
