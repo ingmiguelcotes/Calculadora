@@ -60,5 +60,3 @@ calculoPesoIdeal(altura)
 caloriasQuemadas(tiempoActividad, valorMET, peso)
 porcentajeGrasaCorporal (peso, altura, edad)
 tasaMetabolicaBasal (peso, altura, edad)
-
-print("Excelente Aprendizaje")
